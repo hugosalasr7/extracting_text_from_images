@@ -1,8 +1,9 @@
 # Finding video skips and extracting datetime text out of images
 
 The code within this repository has two main purposes:
-1. Find YouTube video skips (moments when recording was stopped and put back on again) using well known image similarity measures.
-2. Use OpenCV, tesseract OCR and RegEx to extract datetime information from images.  
+1. Download YouTube frames sequentially. 
+2. Find YouTube video skips (moments when recording was stopped and put back on again) using well known image similarity measures.
+3. Use OpenCV, tesseract OCR and RegEx to extract datetime information from images.  
 
 
 ## File descriptions
